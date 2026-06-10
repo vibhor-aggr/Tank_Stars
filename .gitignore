@@ -1,0 +1,14 @@
+.gradle/
+build/
+bin/
+*/build/
+*/bin/
+*.class
+*.log
+*.tmp
+.project
+.classpath
+.settings/
+hs_err_pid*
+replay_pid*
+saves/
